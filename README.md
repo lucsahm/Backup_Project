@@ -32,7 +32,7 @@ Substitua C:\\caminho\\para\\rsync.exe pelo caminho real do executável rsync.
 Para executar o script, entre no diretório onde você baixou o script e utilize o seguinte comando no terminal PowerShell:
     
     cd D:\localDoScript\
-    python backupRodar2.py
+    python main.py
 
 ## Verificação do `rsync`
 
